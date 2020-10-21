@@ -1,4 +1,4 @@
-l#include<stdio.h>
+#include<stdio.h>
 #include<conio.h>
 
 float balance = 0;
